@@ -1,0 +1,12 @@
+[x-cloak] {
+  display: none !important;
+}
+
+/* Override Tailwind's to remove empty <p> tags */
+.prose {
+
+  p:empty,
+  p:has(br:only-child) {
+    display: none;
+  }
+}
