@@ -67,3 +67,26 @@ Found '/data/www-local/web/lara_sites/sandbox-laravel/.nvmrc' with version <lts/
 Now using node v18.19.1 (npm v10.2.4)
 
 ```
+
+
+# Sail (docker)
+
+### Start the Docker containers:
+    ```bash
+    ./vendor/bin/sail up -d
+    ```
+
+### Stop the Docker containers:
+    ```bash
+    ./vendor/bin/sail down
+    ```
+### Migration :
+    ```bash
+    ./vendor/bin/sail artisan:migrate
+    ```
+### Entering the Container Shell
+To enter the shell of the Laravel container:
+
+    ```bash
+    ./vendor/bin/sail shell
+    ```
