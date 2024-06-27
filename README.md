@@ -40,3 +40,4 @@ To enter the shell of the Laravel container:
     ```bash
     cd /mnt/c/Users/***/OneDrive/Bureau/dev/laravel-template
     ```
+
