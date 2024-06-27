@@ -41,3 +41,4 @@ To enter the shell of the Laravel container:
     cd /mnt/c/Users/***/OneDrive/Bureau/dev/laravel-template
     ```
 
+ 
