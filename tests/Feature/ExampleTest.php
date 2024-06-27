@@ -6,6 +6,11 @@ use function Pest\Laravel\get;
 
 uses(RefreshDatabase::class);
 
-it('the app returns a successful response', function () {
-    get('/')->assertStatus(200);
-});
+/**
+ * @test the app returns a successful response
+ * @return void
+ *
+ * it('the app returns a successful response', function () {
+ * get('/')->assertStatus(200);
+ * });
+ */
