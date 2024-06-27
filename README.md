@@ -36,3 +36,7 @@ To enter the shell of the Laravel container:
     ```bash
     ./vendor/bin/sail shell
     ```
+### Wsl
+    ```bash
+    cd /mnt/c/Users/***/OneDrive/Bureau/dev/laravel-template
+    ```
