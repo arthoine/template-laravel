@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "@alpinejs/collapse": "^3.12.3",
-    "@alpinejs/focus": "^3.12.3",
+    "@alpinejs/focus": "^3.14.0",
     "alpinejs": "^3.12.3"
   },
   "devDependencies": {
